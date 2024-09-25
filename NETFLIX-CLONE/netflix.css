@@ -694,8 +694,15 @@ input {
 }
 
 .foot-1 .netflix a{
-    padding-left: 767px;
     color: rgba(255, 255, 255, 0.7);
-    
+    text-decoration: none;    
+}
+
+.foot-1 .netflix a:hover{
+    color: red;
+}
+
+.foot-1 .netflix a i{
+    padding-right: 5px;
 }
 
